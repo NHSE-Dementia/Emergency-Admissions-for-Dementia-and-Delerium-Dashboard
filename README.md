@@ -1,2 +1,2 @@
 # Emergency Admissions for Dementia and Delirium Dashboard
-SQL scripts to calculate the number of emergency admissions and readmissions for all, over 65s, Dementia diagnosis, Delirium diagnosis and MCI diagnosis.
+This repository has been archived in January 2024 and replaced with https://github.com/nhsengland/Dementia/tree/main/Emergency%20Admissions%20for%20Dementia%20and%20Delirium%20Dashboard.
